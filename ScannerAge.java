@@ -11,10 +11,10 @@ class ScannerAge {
 
     if (x < 10) {
       System.out.println("\nChild \n");
-    } else if (x > 10) {
-      System.out.println("\nAdult\n");
+    } else (x > 10) {
+      System.out.println("Adult");
     }
-    if (x > 20) {
+     if (x > 20) {
       System.out.println("\nMajor\n");
     }
 
