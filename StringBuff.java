@@ -5,6 +5,9 @@ public class StringBuff {
     name.insert(3, "Anu");
     name.replace(2, 3, "Hello");
     name.delete(6, 10);
+    name.reverse();
+    name.charAt(8);
+    name.length();
     System.out.println(name);
   }
 }
